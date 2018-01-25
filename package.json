@@ -1,0 +1,25 @@
+{
+  "name": "tounaowangzhe",
+  "version": "1.0.0",
+  "description": "头脑王者辅助",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liugc/tounaowangzhe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liugc/tounaowangzhe/issues"
+  },
+  "homepage": "https://github.com/liugc/tounaowangzhe#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
